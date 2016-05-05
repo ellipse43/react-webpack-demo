@@ -1,0 +1,39 @@
+.center-div {
+    margin: 0 auto;
+    width:100%
+}
+
+.form-select {
+  margin-top: 20px;
+}
+
+.plist-result {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.album {
+  min-height: 50rem; /* Can be removed; just added for demo purposes */
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: #f7f7f7;
+}
+
+.card {
+  padding: 10px;
+  border: 1px solid #efefef;
+}
+
+.card > img {
+  margin-bottom: .75rem;
+  border-radius: 100px;
+}
+
+.card-text {
+  font-size: 85%;
+}
+
+.div-refresh {
+  text-align: center;
+  padding-bottom: 10px;
+}
